@@ -1,4 +1,4 @@
-https://nav.ops-coffee.cn/
-https://nav.ops-coffee.cn/tools.html
-https://nav.ops-coffee.cn/common.html
-https://nav.ops-coffee.cn/develop.html
+http://itzlg.gitee.io/coder-nav
+http://itzlg.gitee.io/coder-nav/tools.html
+http://itzlg.gitee.io/coder-nav/common.html
+http://itzlg.gitee.io/coder-nav/develop.html
